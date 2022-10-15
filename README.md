@@ -42,8 +42,8 @@ I have developed many successful sites so far with mentioned skills.
 </table>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSCNinja)](https://github.com/DevSCNinja/github-readme-stats)
-![DevSCNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSCNinja&hide=contribs,prs)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparklingCoolDev)](https://github.com/SparklingCoolDev/github-readme-stats)
+![DevSCNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparklingCoolDev&hide=contribs,prs)
 
 
-⭐️ From [SmartNinja](https://github.com/DevSCNinja)
+⭐️ From [SparklingCoolDev](https://github.com/SparklingCoolDev)
