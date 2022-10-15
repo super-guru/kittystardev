@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 💬 Telegram : [@blockchainguruman](https://t.me/blockchainguruman)
-- 💬 Discord: SmartNinja#3195
+- 💬 Discord: PEIN#3195
 - 📝 Email : okamipeindev@gmail.com
 
 **Languages and Tools:**   
